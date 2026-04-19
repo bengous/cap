@@ -1,0 +1,164 @@
+CAP — REGLES DU TEST
+--------------------
+Version texte brut pour lecture humaine et référence complémentaire par IA.
+
+1. PRESENTATION
+---------------
+CAP est un test de réflexion personnelle basé sur 5 drivers.
+Il aide à repérer des messages intérieurs qui peuvent influencer les choix, les réactions et les habitudes d'action.
+Ce n'est pas un diagnostic médical ou psychologique.
+
+2. ECHELLE DE REPONSE
+---------------------
+0 = ce n'est PAS moi
+1 = c'est PEUT-ÊTRE moi
+2 = c'est QUELQUEFOIS moi
+3 = c'est SOUVENT moi
+4 = c'est TOUT À FAIT moi
+
+3. REGLES DE SCORING
+--------------------
+49 affirmations au total.
+Seules les 40 premières affirmations entrent dans le calcul des 5 drivers.
+8 affirmations par driver.
+Score max par driver = 32.
+Les questions au-delà de 40 sont hors scoring.
+Un score élevé indique une tendance plus marquée, pas une identité figée.
+En cas d'égalité, plusieurs dynamiques peuvent coexister.
+
+4. COMMENT LIRE UN RESULTAT
+---------------------------
+Regarder d'abord le driver dominant.
+Regarder ensuite le driver secondaire.
+Observer l'interaction entre les deux premiers drivers.
+Ne pas surinterpréter un score isolé.
+Les 5 drivers coexistent chez une même personne ; seule leur intensité varie.
+
+5. REFERENTIEL DES 5 DRIVERS
+----------------------------
+Fais vite
+Tagline : il n'y a pas de temps à perdre
+Description : Une pression intérieure à aller plus vite, finir avant, anticiper. L'urgence devient le moteur par défaut, parfois au détriment de l'attention au détail ou au ressenti.
+
+Avantages :
+- Vif, fonceur.
+- Décidé, va de l'avant.
+- Ambitieux, prend des risques.
+- Gourmand, prend la vie à pleines dents.
+- Tout faire dans les plus brefs délais.
+- Surveille sa montre.
+- Stimulé par les délais courts.
+- Aime la nouveauté.
+- Mobile, itinérant.
+
+Pièges :
+- Lent à se mettre en route.
+- Impatient.
+- Ne prend pas plaisir.
+- Projette son stress.
+- Délais trop courts, peut manquer des échéances importantes.
+- Arrive en retard.
+- Trouve encore quelque chose à faire au dernier moment.
+- Manque de temps en permanence entre deux activités.
+
+Fais des efforts
+Tagline : plus c'est dur, mieux c'est
+Description : La conviction que la valeur se prouve par l'effort visible. Faire simplement ne suffit pas ; il faut que ça coûte, que ça transpire. Le résultat compte moins que l'intensité mise dans le chemin.
+
+Avantages :
+- Relève les défis.
+- Bosseur.
+- Laborieux.
+- Forte productivité.
+- Travailleur.
+- Agenda bien rempli.
+- Plusieurs choses en même temps.
+
+Pièges :
+- Centré sur le processus.
+- Se noie dans les détails.
+- Choisit la difficulté.
+- Y arrive tout juste, et épuisé.
+- Dépense son énergie à mauvais escient et à chaque fois.
+- Fatigué.
+- Perd de vue l'objectif.
+- Désordonné.
+- Instable.
+
+Sois fort
+Tagline : ne pas dépendre des autres
+Description : Tenir sans montrer. Se débrouiller seul, ne pas déranger avec ses émotions, garder la façade même sous tension. La vulnérabilité se vit en silence.
+
+Avantages :
+- Prend des responsabilités.
+- Contrôle ses émotions.
+- Respecte ses engagements.
+- Invulnérable.
+- Agit avec prudence.
+- Travaille seul.
+- Boute-en-train.
+- Affiche ses certitudes.
+- Inspire confiance.
+- Résiste à la pression.
+
+Pièges :
+- Insensible.
+- Masque impassible.
+- Blindé.
+- Cavalier seul.
+- Du mal à déléguer.
+- Prend les urgences.
+- Se surmène.
+- Réticent à demander de l'aide.
+
+Sois parfait
+Tagline : c'est moi qui contrôle
+Description : Un standard intérieur élevé qui laisse peu de place à l'approximation. L'erreur pèse, les détails comptent, et la tâche n'est finie que lorsqu'elle est impeccable.
+
+Avantages :
+- Compétence, métier.
+- Autodiscipline.
+- Rigoureux.
+- Fiable, crédible, consistant.
+- Minutieux, méthodique.
+- Voit juste.
+- Rarement en retard.
+
+Pièges :
+- Trop d'importance à tous les détails, perd de vue l'essentiel.
+- Maniaque.
+- A du mal à se remettre en question.
+- Fait et refait plusieurs fois pour améliorer.
+- Passe trop de temps sur la tâche.
+- Emploi du temps rigide.
+- Délègue peu ou mal.
+
+Fais plaisir
+Tagline : faire le bonheur des autres
+Description : Ajuster ses propres besoins à ceux des autres, pour préserver le lien ou la bonne disposition. Le « non » coûte, l'attention à l'humeur des autres est quasi automatique.
+
+Avantages :
+- Convivial.
+- Séducteur.
+- Maternant.
+- Congruent.
+- Disponible.
+
+Pièges :
+- Suit les événements sans mettre de priorités.
+- Suspecté de manipulation.
+- Surprotecteur.
+- Débordé.
+- Influençable.
+- Ne sait pas dire non.
+- Perd son temps en contacts inutiles.
+
+6. CONSIGNES POUR UNE IA
+------------------------
+Rester nuancé.
+Ne pas faire de diagnostic.
+Ne pas employer un ton sensationnaliste.
+Distinguer forces probables et points de vigilance.
+Expliquer l'interaction entre les deux premiers drivers.
+Proposer des pistes concrètes d'observation.
+Garder un ton prudent, non médical, sans étiquettes figées.
